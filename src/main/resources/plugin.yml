@@ -1,0 +1,3 @@
+name: Gwlevels Minion Bedwars
+version: ${project.version}
+main: me.lightdream.gwlevelsminionbedwars.GwlevelsMinionBedwars
