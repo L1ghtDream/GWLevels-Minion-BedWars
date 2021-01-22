@@ -15,7 +15,7 @@ import java.util.Objects;
 public final class GwlevelsMinionBedwars extends JavaPlugin {
 
     private static GwlevelsMinionBedwars plugin;
-    public static final String PLUGIN_VERSION = "Beta 0.2 (TagManager) Build 52";
+    public static final String PLUGIN_VERSION = "1.0";
     public static final String MINION_VERSION = "1.0";
 
     @Override
@@ -36,7 +36,7 @@ public final class GwlevelsMinionBedwars extends JavaPlugin {
                 System.out.println("Updated database");
                 setToDatabase(player.getName(), calculatePoints(player));
             }
-        }, 0L, 500L);
+        }, 0L, 6000L);
 
 
         Objects.requireNonNull(this.getCommand("dev")).setExecutor(new CommandManager());

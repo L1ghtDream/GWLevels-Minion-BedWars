@@ -6,7 +6,7 @@
 
     <groupId>me.lightdream</groupId>
     <artifactId>gwlevels-minion-bedwars</artifactId>
-    <version>Beta 0.1</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>Gwlevels Minion Bedwars</name>
