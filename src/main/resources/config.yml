@@ -1,9 +1,16 @@
-"kills": 1
-"wins": 3
-"finalKills": 1.5
-"deaths": -1
-"loses": -3
-"finalDeaths": -1.5
-"bedsDestroyed": 2
-"gamesPlayed": 0.1
-"level": 0.1
+kills: 1
+wins: 3
+finalKills: 1.5
+deaths: -1
+loses: -3
+finalDeaths: -1.5
+bedsDestroyed: 2
+gamesPlayed: 0.1
+level: 0.1
+
+host: "127.0.0.1"
+database: "gwlevels"
+user: "root"
+password: "mypass"
+port: 3306
+points: "points"

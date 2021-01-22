@@ -62,10 +62,6 @@
             <url>https://oss.sonatype.org/content/groups/public/</url>
         </repository>
         <repository>
-            <id>andrei1058-repo</id>
-            <url>http://repo.andrei1058.com/releases/</url>
-        </repository>
-        <repository>
             <id>placeholderapi</id>
             <url>https://repo.extendedclip.com/content/repositories/placeholderapi/</url>
         </repository>
@@ -78,11 +74,6 @@
             <artifactId>spigot-api</artifactId>
             <version>1.8.8-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
-        </dependency>
-        <dependency>
-            <groupId>com.andrei1058.bedwars</groupId>
-            <artifactId>bedwars-api</artifactId>
-            <version>19.11</version>
         </dependency>
         <dependency>
             <groupId>me.clip</groupId>

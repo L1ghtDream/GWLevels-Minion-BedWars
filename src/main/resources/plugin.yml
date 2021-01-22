@@ -1,3 +1,8 @@
 name: Gwlevels Minion Bedwars
 version: ${project.version}
 main: me.lightdream.gwlevelsminionbedwars.GwlevelsMinionBedwars
+authors: [ _LightDream ]
+depend: [PlaceholderAPI]
+commands:
+  dev:
+    usage: /<command>
